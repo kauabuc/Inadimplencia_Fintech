@@ -1,4 +1,4 @@
-﻿#Inadimplencia_Fintech
+﻿# Inadimplencia_Fintech
 
 ### O projeto completo se encontra no meu [Medium](https://medium.com/@kakabuchweitz/controle-da-inadimpl%C3%AAncia-para-fintech-com-excel-python-e-power-bi-939b7d2c2841)
 
